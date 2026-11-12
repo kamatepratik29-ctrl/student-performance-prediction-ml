@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\nenv/\n.env\n.streamlit/secrets.toml\n.vscode/\n.DS_Store\nThumbs.db\n
